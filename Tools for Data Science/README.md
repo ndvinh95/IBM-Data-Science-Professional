@@ -43,7 +43,6 @@ This module introduces the Jupyter Notebook and JupyterLab. You will learn how t
 	
 * **Module 5: RStudio and GitHub**
 This module will start with an introduction to R and RStudio and will end up with Github usage. You will learn about the different R visualization packages and how to create visual charts using the plot function.
-
 Further in the module, you will develop the essential conceptual and hands-on skills to work with Git and GitHub. You will start with an overview of Git and GitHub, creating a GitHub account and a project repository, adding files, and committing your changes using the web interface. Next, you will become familiar with Git workflows involving branches, pull requests (PRs), and merges. You will also complete a project at the end to apply and demonstrate your newly acquired skills. 
 	* Describe R capabilities and RStudio environment.
 	* Use the inbuilt R plot function.
