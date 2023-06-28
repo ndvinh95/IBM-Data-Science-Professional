@@ -58,4 +58,4 @@ The art of uncovering insights and trends in data has been around since ancient 
 2. On Coursera Certificate Link - [Accomplishment](https://www.coursera.org/account/accomplishments/certificate/H6MNDBNX9EFG)
 3. Professional Certificate
 <p align="center">
-<img src="/What_is_Data_Science_Certificate.jpg" width=80% height=80%> 
+<img src="/Course1-What-is-Data-Science/What_is_Data_Science_Certificate.jpg" width=80% height=80%> 
