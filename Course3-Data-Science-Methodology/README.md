@@ -42,4 +42,4 @@ To apply the methodology, you will work on a real-world inspired scenario and wo
 2. On Coursera Certificate Link - [Accomplishment](https://www.coursera.org/account/accomplishments/certificate/NJC644UQ8V5N)
 3. Professional Certificate
 <p align="center">
-<img src="/Course2-Tools-for-Data-Science/Tools_for_Data_Science_Certificate.jpg" width=80% height=80%> 
+<img src="/Course3-Data-Science-Methodology/Data_Science_Methodology_Certificate.jpg" width=80% height=80%> 
